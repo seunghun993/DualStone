@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ca9fadb9105b0a44b6563b3acdd54d4, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uD06C\uB9AC\uBCF4"
+    attack: 1
+    health: 1
+    sprite: {fileID: 21300000, guid: 13243efb71fc80f4389af76807d78b0c, type: 3}
+    mana: 0
+  - name: "\uD06C\uB9AC\uD130"
+    attack: 2
+    health: 1
+    sprite: {fileID: 21300000, guid: af444f41af3096c4caf43ba6c7b8696a, type: 3}
+    mana: 1
+  - name: "\uD640\uB9AC\uC5D8\uD504"
+    attack: 2
+    health: 3
+    sprite: {fileID: 21300000, guid: eb4fe082e5df8e9428906bec627fbccc, type: 3}
+    mana: 2
+  - name: "\uC2E4\uBC84\uD33D"
+    attack: 3
+    health: 2
+    sprite: {fileID: 21300000, guid: 72735092b3657224d9b8beaf1d2471e7, type: 3}
+    mana: 2
+  - name: "\uC694\uC0C8\uB97C\uC9C0\uD0A4\uB294\uC775\uB8E1"
+    attack: 5
+    health: 1
+    sprite: {fileID: 21300000, guid: 99a96c8fa48a2ef4d9c0088e974a3d0d, type: 3}
+    mana: 3
+  - name: "\uB8E8\uC774\uC988"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: cfedba9bed37f444ca41987b2f5cab49, type: 3}
+    mana: 3
+  - name: "\uC554\uC11D\uAC70\uC778"
+    attack: 2
+    health: 7
+    sprite: {fileID: 21300000, guid: 4e71e12cbdec79049a81444f46899bd7, type: 3}
+    mana: 4
+  - name: "\uB9D8\uBAA8\uC2A4\uC758\uBB34\uB364"
+    attack: 4
+    health: 5
+    sprite: {fileID: 21300000, guid: 8274428ee98306644876004aea104a5e, type: 3}
+    mana: 4
+  - name: "\uC5D8\uD504\uAC80\uC0AC"
+    attack: 6
+    health: 5
+    sprite: {fileID: 21300000, guid: 7344004407571d747baa7cb52a48077f, type: 3}
+    mana: 5
+  - name: "\uC911\uC7A5\uAC11\uAC70\uBD81"
+    attack: 5
+    health: 6
+    sprite: {fileID: 21300000, guid: 4479e18913d6d5d40a6dc7c565c8c857, type: 3}
+    mana: 5
+  - name: "\uCEE4\uC2A4\uC624\uBE0C\uB4DC\uB798\uACE4"
+    attack: 6
+    health: 7
+    sprite: {fileID: 21300000, guid: f727b35da7c4b304f9793c7f5ac336dc, type: 3}
+    mana: 6
+  - name: "\uC554\uD751\uAE30\uC0AC\uAC00\uC774\uC544"
+    attack: 5
+    health: 9
+    sprite: {fileID: 21300000, guid: e81f3bb2dc0ff8449bb8c69e519d89b9, type: 3}
+    mana: 7
+  - name: "\uB370\uBAAC\uC18C\uD658"
+    attack: 9
+    health: 5
+    sprite: {fileID: 21300000, guid: bdf7f48c5eba2aa4ca132ef60faab3a7, type: 3}
+    mana: 7
+  - name: "\uCE74\uC624\uC2A4\uC194\uC800"
+    attack: 7
+    health: 7
+    sprite: {fileID: 21300000, guid: b89c431eb74b4d14eaec77c72f803b9a, type: 3}
+    mana: 7
+  - name: "\uBE14\uB799\uB9E4\uC9C0\uC158"
+    attack: 8
+    health: 8
+    sprite: {fileID: 21300000, guid: 06f7c32d71685b449afb14638ca0e3c3, type: 3}
+    mana: 8
